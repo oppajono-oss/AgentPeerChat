@@ -13,7 +13,7 @@
     {
       "binding": "DB",
       "database_name": "agentpeerchat",
-      "database_id": "",
+      "database_id": "a869723f-7229-4797-b02c-ea6cc9ebaa2f",
       "migrations_dir": "migrations"
     }
   ],
